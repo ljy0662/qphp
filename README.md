@@ -47,13 +47,12 @@ View code :
 ``` #HTML + PHP code 
 
 
-<html>
-<body>
-<h1>hello world</h1>
-</body>
-</html>
+< html>
+< body>
+< h1>hello world</h 1>
+< /body>
+< /html>
 <?php echo phpinfo(); ?>
 ```
 
 ### it is easy support API request . such as android's server or IOS's server 
-##
